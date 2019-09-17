@@ -1,0 +1,59 @@
+---
+permalink: /.well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/woutervb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vanbommelonline.nl
+  * I am woutervb (https://keybase.io/woutervb) on keybase.
+  * I have a public key ASB8JZhoATuvT4MyuPtTRZVKSAdPXLkOoov5qKqQsbz5oQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012085473fb59e93532025ce371d6aaef0c6db3447718b0a6ad303d49798047d94d80a",
+      "host": "keybase.io",
+      "kid": "01207c259868013baf4f8332b8fb5345954a48074f5cb90ea28bf9a8aa90b1bcf9a10a",
+      "uid": "8911282751d010b8e547487cc6f8d119",
+      "username": "woutervb"
+    },
+    "merkle_root": {
+      "ctime": 1568702591,
+      "hash": "fb73e26d0be2e16398eb17b42a06dfc5c46422b4afe44b688dc136af36a3683157771e1ef703271fcbb85ea4125d1fe781a1971aee7168c2c72980c25a1d689f",
+      "hash_meta": "619711c8428fa3fbb9bd6a624c5486536fd40f452d7a24b09f442cc7c17b2d20",
+      "seqno": 7506996
+    },
+    "service": {
+      "entropy": "trRNPhQFpUfgm55+nxnXakkR",
+      "hostname": "vanbommelonline.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568702601,
+  "expire_in": 504576000,
+  "prev": "23ce726cec60217c1e4bbe192857313f491a4d1d8a70957dc18ac41ff6aa1bfd",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfCWYaAE7r0+DMrj7U0WVSkgHT1y5DqKL+aiqkLG8+aEKp3BheWxvYWTESpcCGcQgI85ybOxgIXweS74ZKFcxP0kaTR2KcJV9wYrEH/aqG/3EIM1bCRqj6EZJ8+TqbU37YlFZvw43HOsm2YNVE4jylnm6AgHCo3NpZ8RAVo1orY9pgFsNEp7CE7qrGCK6JJaSKdYZqYXSCfW0QuwcV/z/6UpWo5LxggIPDlkp8d4I5H0AhxB7GDOs2us0AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHEPv+OSd/6PAhplSeiwBqgBQ4FnGLSR2Mw/SuERlIH8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/woutervb
+
+==================================================================
